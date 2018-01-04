@@ -1,0 +1,85 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#navegacao {
+	background: rgb(0, 156, 204);
+	height: 70px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+
+#area {
+	width: 1500px;
+	margin: 0 auto;
+}
+
+#postagens{
+    padding: 65px
+}
+
+body{
+    background: rgb(199, 199, 199);
+}
+
+.img-menu{
+	float: left;
+    width: 30px;
+    margin: 25px 65px;
+}
+
+.img-logo{
+	float: left;
+    margin: 15px 175px;
+    width: 130px;
+}
+
+.slogan{
+    font-size: 15px;
+    float:rigth;
+    margin: -150px;
+    color: white;
+}
+
+.social{
+    float: rigth;
+    width: 50px;
+    margin: 5px 375px;
+}
+
+.social2{
+    float: left;
+    width: 45px;
+    margin: -55px 385px;
+}
+
+.roll{
+    width: 1200px;
+    margin: 65px 15px 80px 13px;
+}
+
+.img-postagens{
+    width: 380px;
+    margin: 0px 8px 35px 15px;
+}
+
+.tp{
+    margin: 0px 0px 15px 15px;
+    font-size: 28px
+    
+}
+
+.post-mar {
+	font-size: 14px;
+	border-bottom: 1px solid #f4f4f4;
+	display: block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.publicidade{
+    width: 340px;
+    margin: 0px 0px 0px 45px;
+}
