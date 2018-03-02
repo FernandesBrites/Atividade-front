@@ -11,6 +11,10 @@
 	top: 0;
 }
 
+#fotos {
+    padding: 65px
+}
+
 #area {
 	width: 1500px;
 	margin: 0 auto;
@@ -20,9 +24,19 @@
     padding: 65px
 }
 
+#postagensinf{
+    padding: 5px
+}
+
 body{
     background: rgb(199, 199, 199);
 }
+
+.azul{
+    color: rgb(11, 117, 204);
+    margin: 5px 0px 5px 0px;
+}
+
 
 .img-menu{
 	float: left;
@@ -67,7 +81,7 @@ body{
 
 .tp{
     margin: 0px 0px 15px 15px;
-    font-size: 28px
+    font-size: 26px
     
 }
 
@@ -82,4 +96,48 @@ body{
 .publicidade{
     width: 340px;
     margin: 0px 0px 0px 45px;
+}
+
+.imglegen01{
+    margin: -130px 25px 0px 20px;
+    float: left;
+    
+}
+
+.imglegen02{
+    margin: -130px 25px 0px 0px;
+    float: left;
+}
+
+.imglegen03{
+    margin: -322px 45px 0px 20px;
+    float: left;
+}
+
+.margemfraseum{
+    margin: 0px 0px 5px 0px;
+}
+
+.imglegen04{
+    margin: 40px 15px 0px 0px;
+    float: left;
+}
+.hr{
+    margin: 35px 0px 0px 0px;
+}
+.imglateral{
+    float: right;
+    margin: -130px 50px 20px 0px;
+}
+
+.titulo01{
+    float: left;
+    font-size: 28px;
+    margin: 65px 0px 35px 20px;
+    color: rgb(11, 117, 204);
+}
+
+.frasetitulo01{
+    float:left;
+    margin: 150px px 5px 0px;
 }
